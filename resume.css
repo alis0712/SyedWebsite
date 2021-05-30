@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 29, 2021, 11:02:05 AM
+    Author     : syeda
+*/
+
+body {	
+	background-image: url("https://survivalhorrorfeeder.files.wordpress.com/2016/02/1089-extermination-005-xwgno.jpg?w=748");
+	background-size: cover;
+	font-family: 'INFECTED', sans-serif;
+	background-repeat: repeat;
+	background-position: center;
+	
+}
+html{
+	height: 100%;
+}
+
+.container{
+	background-color: black;
+	background-position: center;
+	text-align: center;
+	margin: 20%;
+	padding: 0.2%;
+	opacity: 0.9;
+	text-shadow:  1px 1px 2px #DDDDDD;
+	text-transform: uppercase;
+	  border-radius: 50px;
+	/*
+	background-repeat: no-repeat;
+	background-size: contain;*/	
+}
+#contan2{
+	background-size: cover;
+	background: black;
+	text-align: center;
+	color: #ffffff;
+	text-shadow:  1px 1px 2px #DDDDDD;
+	margin: 10%;
+	padding: .2%;
+	opacity: 0.9;
+	font-size: 20px;
+	  border-radius: 15px;
+	/*
+	background-repeat: no-repeat;
+	background-size: contain;*/	
+}
+
+#contan3{
+	background-size: cover;
+	background: black;
+	text-align: left;
+	color: #ffffff;
+	text-shadow:  1px 1px 2px #DDDDDD;
+	margin: 10%;
+	padding: .2%;
+	opacity: 0.9;
+	font-size: 20px;
+	  border-radius: 15px;
+	/*
+	background-repeat: no-repeat;
+	background-size: contain;*/	
+}
+h1	{
+	font-family:'INFECTED', sans-serif;
+	color: #ffffff;
+	font-weight: 900;	
+	font-size: 6em;
+}
+
+h3{
+        font-size: 6em;
+	color: #ffffff;
+}
+h2{
+	font-size: 3em;
+	color: #ffffff;
+}
+p{
+
+	  line-height: 1.6;
+}
+img{
+
+	border: 1px solid #ddd;
+  border-radius: 25px;
+  padding: 5px;
+  width: 120px;
+}
+
+.navbar-brand {
+
+}
